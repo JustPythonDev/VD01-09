@@ -1,0 +1,33 @@
+body {
+    background-color: bisque;
+    display: flex;
+    justify-content: center; /* Выравнивание карточек по центру страницы */
+    align-items: center; /* Вертикальное выравнивание карточек */
+}
+
+
+.card{
+    align-self: center;
+    margin-bottom: 50px;
+    width: 400px;
+    height: 750px;
+    background-color: burlywood;
+    border-radius: 10px;
+    transition: 200ms;
+}
+
+.card:hover {
+    background-color: lightskyblue;
+    transition: 200ms;
+}
+
+img {
+   width: 300px;
+   position: relative;
+   margin:50px;
+}
+
+.info {
+    align-items:  center;
+    text-align: center;
+}
