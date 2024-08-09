@@ -1,0 +1,55 @@
+body {
+    background-color: antiquewhite;
+}
+
+p {
+    background-color: rgb(152, 251, 152);
+    border-color: #006400;
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 20px
+}
+
+#test {
+    background-color: #FFFF00;
+    font-family: Arial Narrow, sans-serif;
+    font-weight: 600;
+    height: 200px
+}
+
+.text {
+    background-color: bisque;
+    font-size: 34px;
+    font-weight: bold;
+    width: 80%
+}
+
+div {
+    width: 100px;
+    height: 100px;
+    background-color: deeppink;
+    border-radius: 50%;
+    position: relative;
+    top: 500px;
+    left: 300px;
+}
+
+sec {
+    width: 100px;
+    height: 100px;
+    background-color: darkolivegreen;
+    border-radius: 50%;
+    position: absolute;
+    bottom: 100px;
+    right: 100px;
+}
+
+span {
+    width: 100px;
+    height: 100px;
+    background-color: yellowgreen;
+    border-radius: 50%;
+    position: fixed;
+    bottom: 100px;
+    right: 100px;
+}
