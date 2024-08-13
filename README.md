@@ -56,7 +56,7 @@ _**VD02/VD02_home_ex_01.html**<br>
 
 ## VD03. Работа с фреймворком Bootstrap
 Работа с компонентами Bootstrap<br>
-_**VD03/VD03_les_ex_01.html**_
+_**[VD03/VD03_les_ex_01.html](VD03%2FVD03_home_ex_01.html)**_
 
 Работа с сеткой Bootstrap<br>
 _**VD03/VD03_les_ex_02.html**_
